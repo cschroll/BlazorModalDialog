@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "++d37hLIZHsYu92ILX9NWpdzC4zLuxdeH3Vq0z+aqMuf48tqR4B7fYfC1XsA1kBxFqgpSVda2lY9hTyU3KVtfA==",
+  "dgSpecHash": "snoO1ybGcn4+do0jNzxoxB/t8t0lOFtSmY9w6BlUOIANH2R+5+StcTt7lj8GJ2eN8UXHcJoIYug6vdOhKONLgQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\BlazorModalDialog.csproj",
+  "projectFilePath": "C:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\BlazorModalDialog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chris\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.1\\microsoft.aspnetcore.authorization.8.0.1.nupkg.sha512",
     "C:\\Users\\Chris\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.1\\microsoft.aspnetcore.components.8.0.1.nupkg.sha512",

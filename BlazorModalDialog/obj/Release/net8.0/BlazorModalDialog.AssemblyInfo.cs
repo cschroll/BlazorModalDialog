@@ -11,7 +11,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Consultants R Us")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("This is a Razor component library with a cool modal window component.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.1.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.0+e037300fa98e543dde0ce54e6f81bf0a07048153")]

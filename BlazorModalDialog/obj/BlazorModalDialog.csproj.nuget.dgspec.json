@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\BlazorModalDialog.csproj": {}
+    "C:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\BlazorModalDialog.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\BlazorModalDialog.csproj": {
-      "version": "1.0.0",
+    "C:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\BlazorModalDialog.csproj": {
+      "version": "0.1.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\BlazorModalDialog.csproj",
-        "projectName": "BlazorModalDialog",
-        "projectPath": "c:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\BlazorModalDialog.csproj",
+        "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\BlazorModalDialog.csproj",
+        "projectName": "My.BlazorModalDialog",
+        "projectPath": "C:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\BlazorModalDialog.csproj",
         "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\obj\\",
+        "outputPath": "C:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

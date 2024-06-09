@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>My.BlazorModalDialog</id>
+    <version>0.1.0</version>
+    <authors>Chris Schroll</authors>
+    <description>This is a Razor component library with a cool modal window component.</description>
+    <repository type="git" commit="e037300fa98e543dde0ce54e6f81bf0a07048153" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.Components.Web" version="8.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Chris\source\repos\BlazorModalDialog\BlazorModalDialog\bin\Release\net8.0\BlazorModalDialog.dll" target="lib\net8.0\BlazorModalDialog.dll" />
+    <file src="C:\Users\Chris\source\repos\BlazorModalDialog\BlazorModalDialog\obj\Release\net8.0\scopedcss\projectbundle\My.BlazorModalDialog.bundle.scp.css" target="staticwebassets\My.BlazorModalDialog.bundle.scp.css" />
+    <file src="C:\Users\Chris\source\repos\BlazorModalDialog\BlazorModalDialog\wwwroot\background.png" target="staticwebassets\background.png" />
+    <file src="C:\Users\Chris\source\repos\BlazorModalDialog\BlazorModalDialog\wwwroot\exampleJsInterop.js" target="staticwebassets\exampleJsInterop.js" />
+    <file src="C:\Users\Chris\source\repos\BlazorModalDialog\BlazorModalDialog\obj\Release\net8.0\staticwebassets\msbuild.My.BlazorModalDialog.Microsoft.AspNetCore.StaticWebAssets.props" target="build\Microsoft.AspNetCore.StaticWebAssets.props" />
+    <file src="C:\Users\Chris\source\repos\BlazorModalDialog\BlazorModalDialog\obj\Release\net8.0\staticwebassets\msbuild.build.My.BlazorModalDialog.props" target="build\My.BlazorModalDialog.props" />
+    <file src="C:\Users\Chris\source\repos\BlazorModalDialog\BlazorModalDialog\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.My.BlazorModalDialog.props" target="buildMultiTargeting\My.BlazorModalDialog.props" />
+    <file src="C:\Users\Chris\source\repos\BlazorModalDialog\BlazorModalDialog\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.My.BlazorModalDialog.props" target="buildTransitive\My.BlazorModalDialog.props" />
+  </files>
+</package>

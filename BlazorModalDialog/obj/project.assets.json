@@ -583,10 +583,10 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "0.1.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\BlazorModalDialog.csproj",
-      "projectName": "BlazorModalDialog",
+      "projectName": "My.BlazorModalDialog",
       "projectPath": "C:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\BlazorModalDialog.csproj",
       "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\obj\\",
